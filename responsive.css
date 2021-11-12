@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+	.calculator {
+		width: 50%;
+	}
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+	.calculator {
+		width: 100%;
+	}
+}
